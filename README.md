@@ -241,4 +241,4 @@ This repository serves as the official landing page for Acoustica. The software 
 **Get the most recent version of Acoustica today!**
 
 ---
-**Last updated:** 2026-09-27 18:11:53 UTC
+**Last updated:** 2026-09-27 21:57:19 UTC
